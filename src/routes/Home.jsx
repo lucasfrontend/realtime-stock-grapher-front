@@ -172,6 +172,7 @@ const Home = ({ onLogout }) => {
 
         <div className="row pt-4">
           <h2>Lista de Acciones</h2>
+          <span>(Buscar "NFLX" para testear la performance de la app, con otras acciones la api key aquí utilizado presenta un plan limitado)</span>
           <div className="col-sm-10">
             <CustomSearchInput
               placeholder='Buscar por Nombre, ej Netflix'
