@@ -13,7 +13,7 @@ Sigue los pasos a continuación para instalar el proyecto:
 1. Posicionado en el directorio que desee clone el repositorio con: 
 
 ```bash
-git clone https://github.com/lucasfrontend/realtime-stock-grapher-front.git
+git clone https://github.com/lucasfrontend/realtime-stock-grapher-front
 ```
 2. Navegue hasta posicionarse en el directorio del proyecto: 
 
